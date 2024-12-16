@@ -134,7 +134,7 @@ namespace TgBot_Reposter_TUE {
             this.textField_tgbot_apikey.Arrangement = Terminal.Gui.ViewArrangement.Fixed;
             this.textField_tgbot_apikey.Secret = false;
             this.textField_tgbot_apikey.Data = "textField_tgbot_apikey";
-            this.textField_tgbot_apikey.Text = "1799950962:AAHZrJ3Yx2qmfH0guTmJb1FoLJ4T-YCr_j0";
+            this.textField_tgbot_apikey.Text = "";
             this.textField_tgbot_apikey.TextAlignment = Terminal.Gui.Alignment.Start;
             this.frameView_tgbot.Add(this.textField_tgbot_apikey);
             this.labelName_tgbotApiKey.Width = Dim.Auto();
@@ -155,7 +155,7 @@ namespace TgBot_Reposter_TUE {
             this.textField_tgbot_apikey2.Arrangement = Terminal.Gui.ViewArrangement.Fixed;
             this.textField_tgbot_apikey2.Secret = true;
             this.textField_tgbot_apikey2.Data = "textField_tgbot_apikey2";
-            this.textField_tgbot_apikey2.Text = "1799950962:aahzrj3yx2qmfh0gutmjb1folj4t-ycr_j0";
+            this.textField_tgbot_apikey2.Text = "";
             this.textField_tgbot_apikey2.TextAlignment = Terminal.Gui.Alignment.Start;
             this.frameView_tgbot.Add(this.textField_tgbot_apikey2);
             this.labelName_tgbot_Admin.Width = Dim.Auto();
